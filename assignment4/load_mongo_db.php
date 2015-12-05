@@ -19,4 +19,8 @@ for($i=0;$i<sizeof($json_array->results);$i++)
 	$collection->insert($json_array->results[$i]);
 }
 
+<<<<<<< HEAD
 ?>
+=======
+?>
+>>>>>>> b6282494d36e7bc71b58eee8cf25039d93cfb0a1
