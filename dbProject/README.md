@@ -1,15 +1,19 @@
 ### Project Name:Online Reume System
 
+
 ### Project Members:
 -Vasantha Gundeti
 -Sahaja Reddy Naredla
 
+
 ### Projects located at the following
+
 
 -README.md-This file explaining the project
 
--site-folder containing the web pages for the project
--index.html-main page for internet site
+
+-site-folder containing the web pages for the project.
+-index.html-main page for internet site.
 -login.html-login page for users
 -load_data.php-script to load the users data 
 -backend.php-connects to the database 
