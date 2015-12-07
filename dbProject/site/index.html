@@ -1,0 +1,69 @@
+
+<!DOCTYPE HTML>
+<!--
+	Miniport by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Online Resume System</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Home -->
+			<div class="wrapper style1 first" id="mainContent">
+				<article class="container" id="top">
+					<div class="row">
+						<div class="4u 12u(mobile)">
+							<img src="images/mustang-logo-large.gif" alt="" />
+						</div>
+						<div class="8u 12u(mobile)">
+							<header>
+								<h1>Online Resume System</h1>
+							</header>
+							<p>A <strong>Online Resume System</strong>,for Job seekers.</p>
+							<a href="login.html" class="button big scrolly">Login</a>
+						</div>
+					</div>
+				</article>
+			</div>
+
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script>
+			$(function() {
+			
+				$( '#home' ).click(function(e) {
+					e.preventDefault()
+					window.top.location.href = "index.html"; 
+				});
+			
+				//$( '#users' ).click(function(e) {
+				//	e.preventDefault()
+				//	var data = {
+				//		"command":"getPage",
+				//		"page":"users.html"
+				//	};
+				//	$.post("backend.php", data)
+				//	  .done(function( response ) {
+				////	  	var result = eval('(' + response + ')');
+				//		$('#mainContent').html(result['html']);
+				//	});
+				//});
+				
+
+				
+			});
+			</script>
+
+	</body>
+</html>
