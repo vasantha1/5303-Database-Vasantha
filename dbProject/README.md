@@ -7,6 +7,9 @@
 
 -Sahaja Reddy Naredla
 
+### Project located at the following
+
+http://cs3.mwsu.edu/~snaredla/dbProject/site
 
 ### Projects located at the following
 
@@ -14,7 +17,7 @@
 -README.md-This file explaining the project
 
 
--site-folder containing the web pages for the project.
+ SITE-folder containing the web pages for the project.
 
 -index.html-main page for internet site.
 
@@ -28,7 +31,7 @@
 
 -registration_form.html-registration page for users information
 
--documents-contains all documents for project
+ DOCUMENTS-contains all documents for project
 
 -OnlineResume_tables.sql-code for dumping the values into tables 
 
