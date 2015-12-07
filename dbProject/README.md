@@ -11,7 +11,7 @@
 
 http://cs3.mwsu.edu/~snaredla/dbProject/site
 
-### Projects located at the following
+### File List
 
 
 -README.md-This file explaining the project
