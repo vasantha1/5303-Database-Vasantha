@@ -27,7 +27,7 @@ http://cs3.mwsu.edu/~snaredla/dbProject/site
 
   - load_data.php - script to load the users data 
 
-  - backend.php - we can add user details to the user table with this help of file
+  - backend.php - we can add user details to the user table with the help of this file
 
   - registration_form.html - registration page for users information
 
